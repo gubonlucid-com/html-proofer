@@ -557,4 +557,5 @@ HTMLProofer.check_directories(["out/"], {
 | [Raspberry Pi's documentation](https://www.raspberrypi.org/documentation/) | [raspberrypi/documentation](https://github.com/raspberrypi/documentation)       |
 | [Squeak's website](https://squeak.org)                                     | [squeak-smalltalk/squeak.org](https://github.com/squeak-smalltalk/squeak.org)   |
 | [Atom Flight Manual](https://flight-manual.atom.io)                        | [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io)     |
-| [GitHub does dotfiles](https://dotfiles.github.io/)                        | [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) | Uses the [proof-html](https://github.com/marketplace/actions/proof-html) GitHub action                                                                                                                                                    |
+| [GitHub does dotfiles](https://dotfiles.github.io/)                        | [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) | Uses the [proof-html](https://github.com/marketplace/actions/proof-html) GitHub action     
+                                                                                                                                               |
